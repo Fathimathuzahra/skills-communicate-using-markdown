@@ -18,3 +18,11 @@ Markdown is a lightweight syntax for formatting text on GitHub.
 
 ```javascript
 var myVar = "Hello, world!";
+```
+
+
+## My Task List
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
