@@ -12,4 +12,4 @@ Markdown is a lightweight syntax for formatting text on GitHub.
 #### Header Levels
 ##### H5 example
 ###### H6 example
-![Image of Yaktocat](https://octodex.github.com/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
