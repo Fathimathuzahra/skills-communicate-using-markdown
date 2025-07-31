@@ -1,17 +1,31 @@
-<header>
+# Welcome to My Markdown Page 👋
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## About Markdown
 
-# Communicate using Markdown
+Markdown is a lightweight syntax for formatting text on GitHub.
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+### Key Features
+- Easy to learn
+- Clean syntax
+- Used for README files, documentation, and comments
 
-</header>
+#### Header Levels
+##### H5 example
+###### H6 example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Code Example
+
+start-markdown
+```javascript
+var myVar = "Hello, world!";
+```
+
+
+## My Task List
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
 
 <!--
   <<< Author notes: Step 4 >>>
@@ -72,3 +86,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+ main
