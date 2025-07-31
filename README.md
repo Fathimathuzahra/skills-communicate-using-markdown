@@ -13,3 +13,5 @@ Markdown is a lightweight syntax for formatting text on GitHub.
 ##### H5 example
 ###### H6 example
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+var myVar = "Hello, world!";
